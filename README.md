@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... dev, networking, infraestructure, music Gorilla Rulz 
 - 🌱 I’m currently learning ... phyton hacks, django, cubernetes, docker
 - 💞️ I’m looking to collaborate on ... ask me
-- 📫 How to reach me ... my nikname at gmail.com
+- 📫 How to reach me ... my nickname at gmail.com
 
 <!---
 juanrmiranda/juanrmiranda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
